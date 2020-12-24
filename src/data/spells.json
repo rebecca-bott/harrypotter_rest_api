@@ -1,0 +1,310 @@
+ [
+    {
+      "key": "Accio",
+      "value": "Brings an object to you"
+    },
+    {
+      "key": "Aguamenti",
+      "value": "Creates a gush of water from the tip of the spell caster’s wand"
+    },
+    {
+      "key": "Alohomora",
+      "value": "Opens locks"
+    },
+    {
+      "key": "Aparecium",
+      "value": "Makes invisible ink become visible"
+    },
+    {
+      "key": "Avada Kedavra",
+      "value": "The Unforgivable Curse, kills your opponent"
+    },
+    {
+      "key": "Avifors",
+      "value": "Turns things into birds"
+    },
+    {
+      "key": "Avis",
+      "value": "Makes birds fly out of the end of your wand"
+    },
+    {
+      "key": "Bombarda",
+      "value": "Causes a small, locally contained explosion"
+    },
+    {
+      "key": "Colloportus",
+      "value": "Closes a door and binds it so that it can’t be opened"
+    },
+    {
+      "key": "Confringo",
+      "value": "The Blasting Curse; Causes the item targeted to explode"
+    },
+    {
+      "key": "Confundus",
+      "value": "Confounds your target, or makes them temporarily confused"
+    },
+    {
+      "key": "Conjunctivitis",
+      "value": "Damages the eyesight of your opponent, making them seem to have pink eye"
+    },
+    {
+      "key": "Crucio",
+      "value": "The Second Unforgivable Curse, the Cruciatus Curse; Tortures your opponent mercilessly"
+    },
+    {
+      "key": "Deletrius",
+      "value": "Erases the last spell cast by a wand so that it can’t be discovered"
+    },
+    {
+      "key": "Densaugeo",
+      "value": "Makes teeth grow out of control"
+    },
+    {
+      "key": "Diffindo",
+      "value": "Makes seams split open, severs an object into two pieces"
+    },
+    {
+      "key": "Dissendium",
+      "value": "Opens a specific passageway into a cellar, may be useful in other instances; may be only a password"
+    },
+    {
+      "key": "Duro",
+      "value": "Turns an item to stone"
+    },
+    {
+      "key": "Engorgio",
+      "value": "Makes an item larger, as in swollen"
+    },
+    {
+      "key": "Episkey",
+      "value": "Heals relatively minor wounds"
+    },
+    {
+      "key": "Evanesco",
+      "value": "Causes an item to immediately dissolve away, as if it had never existed"
+    },
+    {
+      "key": "Expecto Patronum",
+      "value": "Creates Patronus"
+    },
+    {
+      "key": "Expelliarmus",
+      "value": "Disarms the target of the spell, such as knocking their wand out of their hand"
+    },
+    {
+      "key": "Fera Verto",
+      "value": "Transforms animals into water goblets!"
+    },
+    {
+      "key": "Ferula",
+      "value": "Binds a broken limb with a splint and bandages, tightly wrapped"
+    },
+    {
+      "key": "Fidelius",
+      "value": "Allows a secret to be hidden within the secret keeper’s soul; very powerful spell"
+    },
+    {
+      "key": "Finite Incantatem",
+      "value": "Stops any spell"
+    },
+    {
+      "key": "Flagrate",
+      "value": "Allows the user to write or draw in the air with fire"
+    },
+    {
+      "key": "Flipendo",
+      "value": "Also knows as the Knockback Jinx, pushes or flips something backwards"
+    },
+    {
+      "key": "Furnunculus",
+      "value": "Causes a person to break out in boils"
+    },
+    {
+      "key": "Geminio",
+      "value": "Creates a duplicate of an item (a twin, as in the zodiacal sign Gemini)"
+    },
+    {
+      "key": "Homorphus",
+      "value": "Man-Shape; makes a werewolf or person disguised as an animal resume their human shape"
+    },
+    {
+      "key": "Immobulus",
+      "value": "Immobilizes the target"
+    },
+    {
+      "key": "Impedimenta",
+      "value": "Puts up an impediment that slows down something or someone that is coming toward you"
+    },
+    {
+      "key": "Imperio",
+      "value": "The third unforgivable curse.  Allows the user to assume complete control of another person"
+    },
+    {
+      "key": "Impervius",
+      "value": "Repels water from a surface"
+    },
+    {
+      "key": "Incarcerous",
+      "value": "Conjures up ropes, which then bind an opponent"
+    },
+    {
+      "key": "Incendio",
+      "value": "Lights a fire"
+    },
+    {
+      "key": "Legilimens",
+      "value": "Allows the user to gain access to another’s mind and memories"
+    },
+    {
+      "key": "Levicorpus",
+      "value": "Turns your opponent upside down and dangles them in thin air"
+    },
+    {
+      "key": "Liberacorpus",
+      "value": "\"Liberates\", or frees a body that has been caught up by the levicorpus spell"
+    },
+    {
+      "key": "Locomotor Mortis",
+      "value": "The Leg-Locker Curse; locks an opponent’s legs together"
+    },
+    {
+      "key": "Lumos",
+      "value": "Creates light, usually by making the tip of the wand glow.  More light can be created using \"lumos maxima\""
+    },
+    {
+      "key": "Mobiliarbus",
+      "value": "Used to move a tree from one place to another"
+    },
+    {
+      "key": "Mobilicorpus",
+      "value": "Used to move a body from one place to another"
+    },
+    {
+      "key": "Morsmordre",
+      "value": "Used to summon the Dark Mark"
+    },
+    {
+      "key": "Muffliato",
+      "value": "Causes a buzzing noise to surround a limited area so that those in the area can carry on a private conversation"
+    },
+    {
+      "key": "Nox",
+      "value": "Extinguishes light, used to douse the light created by “Lumos”"
+    },
+    {
+      "key": "Obliviate",
+      "value": "Makes a person \"oblivious\", erasing their memories of an event"
+    },
+    {
+      "key": "Orchideous",
+      "value": "Conjures a bunch of flowers from the user’s wand"
+    },
+    {
+      "key": "Petrificus Totalus",
+      "value": "Total petrification; petrifies an opponent totally"
+    },
+    {
+      "key": "Point Me",
+      "value": "The Four Point Spell; makes the user’s wand act like a compass"
+    },
+    {
+      "key": "Portus",
+      "value": "Turns any item into a Portkey, which can then be used to transport a person or persons to another location."
+    },
+    {
+      "key": "Prior Incantato",
+      "value": "Reveals to you the last spell that a wand was used to cast"
+    },
+    {
+      "key": "Protego",
+      "value": "Protects the user, and sends a spell back on an opponent"
+    },
+    {
+      "key": "Quietus",
+      "value": "Makes things quiet, used to muffle \"Sonorus\""
+    },
+    {
+      "key": "Reducio",
+      "value": "Shrinks an item"
+    },
+    {
+      "key": "Reducto",
+      "value": "Blasts solid objects into pieces"
+    },
+    {
+      "key": "Relashio",
+      "value": "Releases something from being constrained or held"
+    },
+    {
+      "key": "Rennervate",
+      "value": "Means to energize or wake up"
+    },
+    {
+      "key": "Reparo",
+      "value": "Repairs broken items"
+    },
+    {
+      "key": "Repello",
+      "value": "Repels something"
+    },
+    {
+      "key": "Repello Muggletum",
+      "value": "Makes an area invisible to Muggles"
+    },
+    {
+      "key": "Revelio",
+      "value": "Causes something that is hidden to be revealed"
+    },
+    {
+      "key": "Rictusempra",
+      "value": "Causes a person to curl up in laughter, as if being tickled"
+    },
+    {
+      "key": "Riddikulus",
+      "value": "Makes a boggart assume a “ridiculous” form, thereby making it funny instead of terrifying"
+    },
+    {
+      "key": "Salvio Hexia",
+      "value": "Strengthen other protective spells, or to deflect any hexes cast toward a specific location"
+    },
+    {
+      "key": "Scourgify",
+      "value": "Used to clean dirt or other material off of a surface"
+    },
+    {
+      "key": "Sectumsempra",
+      "value": "Causes lacerations to appear all over an opponent’s body, as if they had been cut by an invisible sword"
+    },
+    {
+      "key": "Serpensortia",
+      "value": "Conjures a snake"
+    },
+    {
+      "key": "Silencio",
+      "value": "Makes the target of the spell unable to make any sound"
+    },
+    {
+      "key": "Sonorus",
+      "value": "Amplifies the user’s voice"
+    },
+    {
+      "key": "Stupefy",
+      "value": "Stupefies an opponent, or knocks them insensible temporarily"
+    },
+    {
+      "key": "Tarantallegra",
+      "value": "Forces an opponent’s legs to dance uncontrollably"
+    },
+    {
+      "key": "Tergeo",
+      "value": "Scours something clean"
+    },
+    {
+      "key": "Waddiwasi",
+      "value": "Removes a stuck object, as in a wad of gum that is stuck in a keyhole"
+    },
+    {
+      "key": "Wingardium Leviosa",
+      "value": "Allows the user to make an object levitate; the first spell taught in the Harry Potter movies"
+    }
+  ]

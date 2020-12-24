@@ -1,0 +1,506 @@
+[
+    {
+        "Name": "Ageing Potion",
+        "Ingredients": "Newt spleens , Bananas",
+        "Effect": "Ages drinker temporarily",
+        "Characteristics": "Green",
+        "DifficultyLevel": "Advanced"
+    },
+    {
+        "Name": "Amortentia",
+        "Ingredients": "",
+        "Effect": "Love Potion�that causes a powerful infatuation or obsession in the drinker",
+        "Characteristics": "Mother-of-pearl sheen, Spiralling steam, Scent is multi-faceted and varies based on what the person likes",
+        "DifficultyLevel": "Advanced"
+    },
+    {
+        "Name": "Antidote to Veritaserum",
+        "Ingredients": "",
+        "Effect": "Counters the effect of�Veritaserum",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Babbling Beverage",
+        "Ingredients": "Valerian sprigs, Aconite, Dittany",
+        "Effect": "Causes the drinker to speak nonsense",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Baruffio's Brain Elixir",
+        "Ingredients": "Leaping Toadstools, Frog Brains, Runespoor eggs, Powdered dragon claw",
+        "Effect": "Allegedly increases one's brain power",
+        "Characteristics": "Green in colour",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Befuddlement Draught",
+        "Ingredients": "Scurvy grass, Lovage, Sneezewort",
+        "Effect": "Recklessness",
+        "Characteristics": "Dark green in colour",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "First Love Beguiling Bubbles",
+        "Ingredients": "",
+        "Effect": "Causes the drinker to become infatuated with the giver of the potion",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Fire Protection Potion",
+        "Ingredients": "Bursting mushrooms, Salamander blood, Wartcap powder",
+        "Effect": "Protects drinker from fire",
+        "Characteristics": "Purple or Black",
+        "DifficultyLevel": "Beginner"
+    },
+    {
+        "Name": "Tolipan Blemish Blitzer",
+        "Ingredients": "Dragon claw",
+        "Effect": "Treats acne",
+        "Characteristics": "White in colour, Thick paste consistency",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Blood-Replenishing Potion",
+        "Ingredients": "",
+        "Effect": "Replenishes lost blood",
+        "Characteristics": "Dark red in colour",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Bruise removal paste",
+        "Ingredients": "",
+        "Effect": "Heals bruises in an hour",
+        "Characteristics": "Thick, yellow paste",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Bundimun Secretion",
+        "Ingredients": "",
+        "Effect": "Doxycide, Bundimun Pomade, Cleaning products",
+        "Characteristics": "Lime green in colour, Emits vapours",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Burn-healing paste",
+        "Ingredients": "",
+        "Effect": "Heals burns",
+        "Characteristics": "Orange",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Calming Draught",
+        "Ingredients": "",
+        "Effect": "Calms the drinker",
+        "Characteristics": "Blue in colour",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Caxambu Style Borborygmus Potion",
+        "Ingredients": "",
+        "Effect": "Provokes�stomach growling",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Chelidonium Miniscula",
+        "Ingredients": "Dark yellow in colour",
+        "Effect": "",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Confusing Concoction",
+        "Ingredients": "Scurvy grass, Lovage, Sneezewort",
+        "Effect": "Confusion",
+        "Characteristics": "",
+        "DifficultyLevel": "Simple to moderate"
+    },
+    {
+        "Name": "Cough potion",
+        "Ingredients": "",
+        "Effect": "Cures coughing",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Cupid Crystals",
+        "Ingredients": "",
+        "Effect": "Causes the drinker to become infatuated with the giver of the potion",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Cure for Boils",
+        "Ingredients": "Dried nettles, 6 snake fangs, 4 horned slugs, 2 porcupine quills, Pungous Onions, Flobberworm Mucus, Ginger root, Shrake spines",
+        "Effect": "Removes boils",
+        "Characteristics": "Blue, Emits pink smoke",
+        "DifficultyLevel": "Beginner"
+    },
+    {
+        "Name": "Death potion",
+        "Ingredients": "",
+        "Effect": "Highly corrosive, death on contact",
+        "Characteristics": "Black in colour",
+        "DifficultyLevel": "Advanced"
+    },
+    {
+        "Name": "Deflating Draught",
+        "Ingredients": "",
+        "Effect": "Deflates the target",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Developing solution",
+        "Ingredients": "",
+        "Effect": "Develops moving photographs",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Doxycide",
+        "Ingredients": "Bundimun Ooze, Streeler shells, Dragon liver, Hemlock essence, Tormentil tincture, Cowbane essence",
+        "Effect": "Temporarily stuns Doxies so that the pests can be removed from a home",
+        "Characteristics": "Black in colour, Typically delivered as a spray",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Dr Ubbly's Oblivious Unction",
+        "Ingredients": "",
+        "Effect": "Heals wounds left by thoughts",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Draught of Living Death",
+        "Ingredients": "Standard potioning water, Powdered Root of Asphodel, Infusion of Wormwood, Valerian root, A Sopophorous bean, A Sloth brain",
+        "Effect": "Causes the drinker to fall into a deep, death-like slumber",
+        "Characteristics": "Turns pale lilac colour then clear",
+        "DifficultyLevel": "Advanced"
+    },
+    {
+        "Name": "Draught of Peace",
+        "Ingredients": "Powdered moonstone, Syrup of Hellebore, Powdered Unicorn horn, Powdered Porcupine quills",
+        "Effect": "Relieves anxiety",
+        "Characteristics": "Light silver colour and vapour",
+        "DifficultyLevel": "Advanced"
+    },
+    {
+        "Name": "Potion for Dreamless Sleep",
+        "Ingredients": "",
+        "Effect": "Drowsiness , dreamless sleep",
+        "Characteristics": "Purple in colour",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Emerald Potion",
+        "Ingredients": "Emerald green in colour, Glows phosphorescently",
+        "Effect": "Induces fear, delirium, intense stomach pain and extreme thirst in the drinker",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Elixir of Life",
+        "Ingredients": "Philosopher's Stone",
+        "Effect": "Immortality",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Elixir to Induce Euphoria",
+        "Ingredients": "Shrivelfig, Porcupine quills, Peppermint sprigs, Sopophorous beans, Wormwood",
+        "Effect": "Induces happiness",
+        "Characteristics": "Sunshine yellow in colour, Sweet, Aromatic, Emits rainbow when finished",
+        "DifficultyLevel": "Advanced"
+    },
+    {
+        "Name": "Everlasting Elixirs",
+        "Ingredients": "",
+        "Effect": "",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Essence of Insanity",
+        "Ingredients": "",
+        "Effect": "",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Fake protective potions",
+        "Ingredients": "Bubotuber Pus, Gravy",
+        "Effect": "Supposedly protect the drinker from the effects of dark magic (likely useless)",
+        "Characteristics": "Fraudulent solutions",
+        "DifficultyLevel": "Beginner"
+    },
+    {
+        "Name": "Felix Felicis",
+        "Ingredients": "Ashwinder egg, Squill bulb, Murtlap tentacle, Tincture of thyme, Occamy eggshell, Powdered common rue",
+        "Effect": "Makes the drinker lucky, Giddiness and recklessness with overuse, Extremely toxic in large quantities, Highly disastrous if brewed incorrectly",
+        "Characteristics": "Droplets leap like goldfish above potion's surface when in cauldron",
+        "DifficultyLevel": "Advanced"
+    },
+    {
+        "Name": "Fergus Fungal Budge",
+        "Ingredients": "Onion juice, Jewelweed, Neem oil",
+        "Effect": "Treats ringworm, fungicide, Potential negative side effects if used by elves",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Flesh-Eating Slug Repellent",
+        "Ingredients": "Repels Flesh-Eating Slugs",
+        "Effect": "",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Forgetfulness Potion",
+        "Ingredients": "2 drops of Lethe River Water, 2 Valerian sprigs, 2 measures of Standard Ingredient, 4 mistletoe berries",
+        "Effect": "Memory loss",
+        "Characteristics": "Orange in colour",
+        "DifficultyLevel": "Beginner"
+    },
+    {
+        "Name": "Garrotting Gas",
+        "Ingredients": "",
+        "Effect": "Causes choking, possibly suffocation",
+        "Characteristics": "Colourless",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Hair-Raising Potion",
+        "Ingredients": "Rat tails, Porcupine quills, Billywig stings",
+        "Effect": "Raises hair up on end",
+        "Characteristics": "Green colour",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Heartbreak Teardrops",
+        "Ingredients": "",
+        "Effect": "Causes the drinker to become infatuated with the giver of the potion",
+        "Characteristics": "Red in colour",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Herbicide Potion",
+        "Ingredients": "Flobberworm mucus, Horklump juice, Lionfish spines, Standard Ingredient",
+        "Effect": "Kills or damages plants",
+        "Characteristics": "Green",
+        "DifficultyLevel": "Advanced"
+    },
+    {
+        "Name": "Hiccoughing Solution",
+        "Ingredients": "",
+        "Effect": "Presumably causes hiccoughs",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Invigoration Draught",
+        "Ingredients": "Alihotsy leaves, Dried billywig stings, Peppermint, Stewed Mandrake, Infusion of Wormwood,\nHoneywater, Vervain, infusion, Scurvy grass, Lovage",
+        "Effect": "Energises the drinker",
+        "Characteristics": "Orange",
+        "DifficultyLevel": "O.W.L. level"
+    },
+    {
+        "Name": "Kissing Concoction",
+        "Ingredients": "",
+        "Effect": "Causes the drinker to become infatuated with the giver of the potion",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Laxative Potion",
+        "Ingredients": "Two scrumples of an unknown ingredient, An ingredient used in a furnace, Agrimonia",
+        "Effect": "Laxative",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Love Potion Antidote",
+        "Ingredients": "Wiggentree twigs, Castor oil, Extract of Gurdyroot",
+        "Effect": "Serves as an antidote for Love Potion",
+        "Characteristics": "Clear, colourless",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Madame Glossy's Silver Polish",
+        "Ingredients": "",
+        "Effect": "Polishes silver objects",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Mandrake Restorative Draught",
+        "Ingredients": "Stewed Mandrake",
+        "Effect": "Returns transfigured or cursed individuals to their original state",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Mouth Itching Antidote",
+        "Ingredients": "Pale green in colour",
+        "Effect": "Cures mouth itching",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Mrs Skower's All-Purpose Magical Mess Remover",
+        "Ingredients": "",
+        "Effect": "Cleans stains",
+        "Characteristics": "Strong acrid odour",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Murtlap Essence",
+        "Ingredients": "Murtlap tentacles",
+        "Effect": "Soothes and heals cuts and abrasions",
+        "Characteristics": "Blue in colour",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Pepperup Potion",
+        "Ingredients": "Bicorn horn, Mandrake root",
+        "Effect": "Warms up the recipient and cures common cold, Steam emits from drinker's ears",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Polyjuice Potion",
+        "Ingredients": "Lacewing flies (stewed 21 days), Leeches, Powdered bicorn horn, Knotgrass, Fluxweed (picked at full moon), Shredded Boomslang skin, A bit of the person one wants to turn into (typically hair)",
+        "Effect": "Allows a human drinker to temporarily assume the form of another person",
+        "Characteristics": "Before addition of final ingredient: Thick and mud-like, Bubbles slowly\nAfter addition of final ingredient: Taste and colour vary depending on the person being turned into",
+        "DifficultyLevel": "Advanced"
+    },
+    {
+        "Name": "Rat tonic",
+        "Ingredients": "",
+        "Effect": "Healing potion for rats, Abnormal growth of the rat if too much is drunk",
+        "Characteristics": "Green-coloured",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Regeneration potion",
+        "Ingredients": "Bone of the father, Flesh of a servant, Blood of a foe",
+        "Effect": "Helps restore non-corporeal wizards to their bodies",
+        "Characteristics": "",
+        "DifficultyLevel": "Advanced"
+    },
+    {
+        "Name": "Rudimentary body potion",
+        "Ingredients": "Snake venom, Unicorn blood",
+        "Effect": "Helps restore non-corporeal wizards to a rudimentary bodies/sustains rudimentary bodies",
+        "Characteristics": "",
+        "DifficultyLevel": "Advanced"
+    },
+    {
+        "Name": "Shrinking Solution",
+        "Ingredients": "Minced daisy roots, Peeled Shrivelfig, Sliced caterpillars, One rat spleen, A dash of leech juice, A splash of cowbane, Wormwood",
+        "Effect": "Causes living beings to shrink to a smaller form",
+        "Characteristics": "Acid green in colour",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Skele-Gro",
+        "Ingredients": "1 Chinese Chomping Cabbage, 3 Puffer-fish, 5 Scarab beetles",
+        "Effect": "Restores�bones",
+        "Characteristics": "Smokes when poured, Vile taste, Burns on the way down",
+        "DifficultyLevel": "Above�second year"
+    },
+    {
+        "Name": "Sleekeazy's Hair Potion",
+        "Ingredients": "Gomas Barbadensis, Asian Dragon Hair, Petroleum Jelly",
+        "Effect": "Makes hair more manageable",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Sleeping Draught",
+        "Ingredients": "4 sprigs of Lavender, 6 measures of Standard Ingredient, 2 blobs of Flobberworm Mucus, 4 Valerian sprigs",
+        "Effect": "Make the drinker quickly fall into a deep but temporary sleep",
+        "Characteristics": "Dark Purple",
+        "DifficultyLevel": "Advanced"
+    },
+    {
+        "Name": "Strengthening Solution",
+        "Ingredients": "Salamander blood, Powdered  Griffin claw",
+        "Effect": "Superhuman strength",
+        "Characteristics": "Turquoise in colour",
+        "DifficultyLevel": "Moderate to advanced"
+    },
+    {
+        "Name": "Swelling Solution",
+        "Ingredients": "Puffer-fish eyes, Dried nettle, Bat spleens",
+        "Effect": "Causes enlargement on contact",
+        "Characteristics": "",
+        "DifficultyLevel": "Beginner"
+    },
+    {
+        "Name": "Ten-Second Pimple Vanisher",
+        "Ingredients": "",
+        "Effect": "Treats boils, pimples, blackheads and�acne",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Thick golden potion",
+        "Ingredients": "",
+        "Effect": "Healing,�curse�quarantining",
+        "Characteristics": "Golden in colour",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Truth serum",
+        "Ingredients": "Jobberknoll feathers",
+        "Effect": "Drinker tells the truth",
+        "Characteristics": "",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Veritaserum",
+        "Ingredients": "",
+        "Effect": "Forces drinker to speak the truth",
+        "Characteristics": "Clear and odourless like�water",
+        "DifficultyLevel": "Advanced"
+    },
+    {
+        "Name": "Weedosoros",
+        "Ingredients": "",
+        "Effect": "Highly�poisonous",
+        "Characteristics": "Deep brown in colour",
+        "DifficultyLevel": ""
+    },
+    {
+        "Name": "Wideye Potion",
+        "Ingredients": "6 snake fangs, 4 measures of Standard Ingredient, 6 dried Billywig stings,  2 sprigs of Wolfsbane",
+        "Effect": "Prevents sleeping, Awakens victim",
+        "Characteristics": "",
+        "DifficultyLevel": "Beginner"
+    },
+    {
+        "Name": "Wit-Sharpening Potion",
+        "Ingredients": "Ground scarab beetles, Cut ginger roots, Armadillo bile",
+        "Effect": "Improves intellect",
+        "Characteristics": "Purple in colour",
+        "DifficultyLevel": "Moderate"
+    },
+    {
+        "Name": "Wolfsbane Potion",
+        "Ingredients": "Wolfsbane",
+        "Effect": "Eases the symptoms of lycanthropy; prevents�werewolves�from losing their minds post-transformation.",
+        "Characteristics": "Faint blue smoke when completed, Unpleasant taste",
+        "DifficultyLevel": "Advanced"
+    },
+    {
+        "Name": "Wound-cleaning potion",
+        "Ingredients": "",
+        "Effect": "Antiseptic",
+        "Characteristics": "Purple liquid, Smokes on contact, Stings on contact",
+        "DifficultyLevel": ""
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "question": "What's your favorite color?",
+        "options": [
+            {
+                "name": "blue",
+                "imgurl": "",
+                "result": {
+                    "ravenclaw": 10,
+                    "griffendoor": 0,
+                    "hufflepuff": 2,
+                    "slithren": 5
+                }
+            },
+            {
+                "name": "green",
+                "imgurl": "",
+                "result": {
+                    "ravenclaw": 3,
+                    "griffendoor": -2,
+                    "hufflepuff": 0,
+                    "slithren": 10
+                }
+            },
+            {
+                "name": "pink",
+                "imgurl": "",
+                "result": {
+                    "ravenclaw": 2,
+                    "griffendoor": 3,
+                    "hufflepuff": 8,
+                    "slithren": 3
+                }
+            },
+            {
+                "name": "orange",
+                "imgurl": "",
+                "result": {
+                    "ravenclaw": 0,
+                    "griffendoor": 4,
+                    "hufflepuff": 5,
+                    "slithren": 0
+                }
+            },
+            {
+                "name": "black",
+                "imgurl": "",
+                "result": {
+                    "ravenclaw": 1,
+                    "griffendoor": -2,
+                    "hufflepuff": -5,
+                    "slithren": 8
+                }
+            }
+        ]
+    },
+    {
+        "question": "Where would you hang out?",
+        "options": [
+            {
+                "name": "Library",
+                "imgurl": "",
+                "result": {
+                    "ravenclaw": 10,
+                    "griffendoor": 6,
+                    "hufflepuff": 4,
+                    "slithren": 0
+                }
+            },
+            {
+                "name": "Common Room",
+                "imgurl": "",
+                "result": {
+                    "ravenclaw": 2,
+                    "griffendoor": 8,
+                    "hufflepuff": 6,
+                    "slithren": 10
+                }
+            },
+            {
+                "name": "Room of Requirment",
+                "imgurl": "",
+                "result": {
+                    "ravenclaw": 3,
+                    "griffendoor": 6,
+                    "hufflepuff": 0,
+                    "slithren": 10
+                }
+            },
+            {
+                "name": "Dining Room",
+                "imgurl": "",
+                "result": {
+                    "ravenclaw": 0,
+                    "griffendoor": 5,
+                    "hufflepuff": 10,
+                    "slithren": 5
+                }
+            }
+        ]
+    },
+    {
+        "question": "What pet would you pick?",
+        "options": [
+            {
+                "name": "Owl",
+                "imgurl": "",
+                "result": {
+                    "ravenclaw": 7,
+                    "griffendoor": 8,
+                    "hufflepuff": 3,
+                    "slithren": 2
+                }
+            },
+            {
+                "name": "Cat",
+                "imgurl": "",
+                "result": {
+                    "ravenclaw": 5,
+                    "griffendoor": 5,
+                    "hufflepuff": 10,
+                    "slithren": 8
+                }
+            },
+            {
+                "name": "Rat",
+                "imgurl": "",
+                "result": {
+                    "ravenclaw": 5,
+                    "griffendoor": 2,
+                    "hufflepuff": 10,
+                    "slithren": 5
+                }
+            },
+            {
+                "name": "Frog",
+                "imgurl": "",
+                "result": {
+                    "ravenclaw": 0,
+                    "griffendoor": 5,
+                    "hufflepuff": 10,
+                    "slithren": 2
+                }
+            }
+        ]
+    }
+]
